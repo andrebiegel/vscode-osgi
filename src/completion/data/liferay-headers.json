@@ -22,7 +22,7 @@
     {
         "label": "Liferay-Require-SchemaVersion",
         "snippet": "$1",
-        "description": "The schema version defines the version for the upgrade framework. If none is defined, Liferay will use the Bundle-Version Header instead <a  href="https://portal.liferay.dev/docs/7-2/frameworks/-/knowledge_base/f/creating-an-upgrade-process-for-your-app">more seee</a>"
+        "description": "The schema version defines the version for the upgrade framework. If none is defined, Liferay will use the Bundle-Version Header instead <a  href=\"https://portal.liferay.dev/docs/7-2/frameworks/-/knowledge_base/f/creating-an-upgrade-process-for-your-app\">more info</a>"
     },
     {
         "label": "Liferay-JS-Config",
