@@ -19,7 +19,6 @@
         "snippet": "$1",
         "description": ""
     },
-   //https://portal.liferay.dev/docs/7-0/tutorials/-/knowledge_base/t/creating-an-upgrade-process-for-your-app
     {
         "label": "Liferay-Require-SchemaVersion",
         "snippet": "$1",
