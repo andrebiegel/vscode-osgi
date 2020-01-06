@@ -1,8 +1,8 @@
 [
    {
         "label": "Liferay-Configuration-Path",
-        "snippet": "$1",
-        "description": ""
+        "snippet": "Liferay-Configuration-Path: /configuration",
+        "description": "The header points to a configuration files location inside of a Bundle. If you’re using any version before Liferay 7.0 CE GA4 or Liferay DXP Fixpack 22, the Liferay-Configuration-Path directive above is Configuration-Path"
     },
     {
         "label": "Liferay-Service",
